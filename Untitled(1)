@@ -1,0 +1,62 @@
+body{
+	background-image:url(images/sign.png);
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+h2{
+	font-family:system-ui;
+	color:white;
+	font-weight:500;
+}
+.simple-form{
+	text-align:center;
+	margin: 50px 450px;
+}
+.registration{
+	width:100%;
+	background-color:tomato;
+	opacity:0.8;
+	padding:50px 0px;
+	border-radius:5px;
+	box-shadow:4px 6px 8px grey;
+}
+#button{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#ph{
+	width:180px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#butt{
+	width:250px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+	background-color:#0c6996;
+	border:2px solid #01010c;
+	color:aliceblue;
+	font-size:19px;
+}
+#phone{
+	width:65px;
+	padding:10px;
+	border-radius:5px;
+	outline:0px;
+}
+#after{
+	width:100%;
+	background-color:#051019;
+	opacity:0.8;
+	padding:50px 0px;
+	border-radius:5px;
+	box-shadow:4px 6px 8px grey;
+}
+#but{
+	color:white;
+	font-size:19px;
+}
